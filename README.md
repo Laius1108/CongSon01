@@ -1,6 +1,6 @@
 ### Hi there, I'm [Cong Son][website]😎
 
-[![Website](https://www.facebook.com/dcson01/)
+[![Website](https://congson01.github.io/duongcongsonCV/)
 
 ## About Me
 As soon as I discovered that technology has impacted our society tremendously, I knew this had to be my career, so I decided to pursue a major in Computer Science. When taking Software Development Using Java at my Community College, I was inspired and fell in love with every single line of code. In September 2020, I took a data structure and algorithm class, and I added that hands-on class to my full-time schedule while I was learning web development.
@@ -21,5 +21,5 @@ Since I started studying Computer Science, I built multiple projects using diffe
 
 [![Duong Cong Son's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=CongSon01&show_icons=true&title_color=fff&icon_color=F2BDFF&text_color=9f9f9f&bg_color=151515)](https://github-readme-stats.vercel.app/api?username=CongSon01)
 
-[website]: https://www.facebook.com/dcson01/
+[website]: https://congson01.github.io/duongcongsonCV/
 [linkedin]: https://www.linkedin.com/in/dcson01/
